@@ -1,6 +1,6 @@
 # 🐍 Python OOP: Operator Overloading (Less Than `<`)
-## NAME: MONISHA P
-## REF NO: 25018486
+## NAME:R.SHAVETA
+## REF NO: 25014945
 ## 🎯 AIM
 
 To write a Python program that demonstrates **operator overloading** by overloading the **less than (`<`)** operator using a custom class.
