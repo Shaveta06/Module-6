@@ -1,6 +1,6 @@
 # 🐍 Python OOP: Abstract Class & Method Example
-## NAME: MONISHA P
-## REF NO: 25018486
+## NAME: R.SHAVETA
+## REF NO: 25014945
 ## 🎯 AIM
 
 To create an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle`.
